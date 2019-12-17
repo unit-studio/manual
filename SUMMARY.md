@@ -64,13 +64,13 @@
 ---
 
 - [Utility Manual](UtilityManual/README.md)
-
-  - [NodeJS](UtilityManual/nodejs.md)
-  - [CNPM](UtilityManual/cnpm.md)
-  - [Git](UtilityManual/git.md)
-    - [Git 添加远程仓库](UtilityManual/gitAddRemote.md)
-  - [Ignore](UtilityManual/ignore.md)
-  - [Gitbook](UtilityManual/gitbook.md)
+  - [Atom](UtilityManual/atom/README.md)
+  - [NodeJS](UtilityManual/nodejs/README.md)
+    - [CNPM](UtilityManual/nodejs/cnpm.md)
+  - [Git](UtilityManual/git/README.md)
+    - [gitignore](UtilityManual/git/ignore.md)
+    - [Git 添加远程仓库](UtilityManual/git/gitAddRemote.md)
+  - [Gitbook](UtilityManual/gitbook/README.md)
   - [Electron](UtilityManual/Electron/README.md)
     - [新建项目](UtilityManual/Electron/CreateElectronApp.md)
 
