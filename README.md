@@ -16,8 +16,11 @@ Transfer [previous repos](http://106.13.58.177:8081/) into GitHub.
 
 ## Install
 
-此项目使用 [node](http://nodejs.org), [npm](https://npmjs.com) and [gitbook-cli](https://www.npmjs.com/package/gitbook-cli).
-如果没有安装,请查看官网进行安装后再进行下面的步骤,其中建议使用 **cnpm** 替换掉 **npm**.
+This project uses [node](http://nodejs.org), [npm](https://npmjs.com) and [gitbook-cli](https://www.npmjs.com/package/gitbook-cli).
+
+If these packages aren't installed locally,please install them by their website.
+
+we recommand you to replace **npm** with **cnpm**.
 
 ```sh
 # 安装命令行工具 gitbook-cli
@@ -26,16 +29,22 @@ $ npm install gitbook-cli -g
 
 ## Usage
 
-打开项目的过程(其中依赖包 node_modules 已经同时提交到了 repo 中,所以不必再次进行安装):
+Follow the steps:
 
 ```sh
-# 安装依赖,依赖包已传至repo,此步骤可省略
-$ gitbook install
+# intall dependencies
+$ cnpm install
+```
+> **Attention**:
+> Do not run `gitbook install`, it takes too much time.
+> And we've already reorganized the dependencies into package.json
+> S.t. you shall install them with `cnpm install`
 
-# 热启动服务
+```sh
+# start sceive
 $ gitbook serve
 
-# 编译项目
+# build project
 $ gitbook build
 ```
 
