@@ -2,6 +2,8 @@
 
 Unit-studio's technical manual repo.
 
+Checkout [中文版本](README-ZH.md)
+
 ## Table of Contents
 
 - [Background](#background)
