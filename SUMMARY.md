@@ -20,6 +20,8 @@
         * [Vue 打印部分页面 vuePlugs_printjs 篇](FrontEndManual/vue/VuePrintArea.md)
         * [Vue 打印部分页面 jsPdf 篇](FrontEndManual/vue/VuePrintWithJSPDF.md)
 * [FrontEnd Records](FrontEndRecords/README.md)
+    * [JS](FrontEndRecords/js/README.md)
+        * [JS 对象数组去重](FrontEndRecords/js/ObjectArrayDeduplication.md)
 
 -----
 * [Mobile Manual](MobileManual/README.md)
@@ -67,7 +69,7 @@
     * [Gitbook](UtilityManual/gitbook/README.md)
         * [Gitbook 配置文件](UtilityManual/gitbook/book.json.md)
         * [Gitbook 插件](UtilityManual/gitbook/plugins.md)
-        * [Gitbook Atom插件](UtilityManual/gitbook/atomPlugins.md)
+        * [Gitbook Atom 插件](UtilityManual/gitbook/atomPlugins.md)
         * [Gitbook DEBUG](UtilityManual/gitbook/debug.md)
     * [Electron](UtilityManual/Electron/README.md)
         * [新建项目](UtilityManual/Electron/CreateElectronApp.md)

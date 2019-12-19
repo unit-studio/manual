@@ -1,5 +1,23 @@
 # gitbook Debug
 
+## 使用 gitbook serve 命令，报错 Error: ENOENT: no such file or directory
+
+报错模板:
+
+    Error: ENOENT: no such file or directory, stat ‘C:\*\*\*demo_book_book\gitbook\gitbook-plugin-xxx\xxx’
+
+原因:
+
+Bug（Vesion：3.2.3）https://github.com/GitbookIO/gitbook/issues/1309
+
+解决:
+
+用户目录下找到以下文件。
+
+`.gitbook\versions\3.2.3\lib\output\website\copyPluginAssets.js`
+
+将所有 `confirm: true` 修改为 `confirm: false`
+
 ## Gitbook Debug Template render error
 
 报错模板:

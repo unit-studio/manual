@@ -49,13 +49,6 @@ cnpm install --save gitbook-plugin-splitter
 > 注意:
 > 插件一定先要在 book.json 文件里面 plugins 中才能生效，如果只是安装了插件，而没配置的话是不会生效的。
 
-### 另外提及可能出现的各种意外情况
-
-| 错误情况                      | 提示信息                                                                                               | 原因                                                                 | 解决办法                                                                                                                                 |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 使用 gitbook serve 命令，报错 | Error: ENOENT: no such file or directory, stat ‘C:\*\*\*demo_book_book\gitbook\gitbook-plugin-xxx\xxx’ | Bug（Vesion：3.2.3）https://github.com/GitbookIO/gitbook/issues/1309 | 用户目录下找到以下文件。 `.gitbook\versions\3.2.3\lib\output\website\copyPluginAssets.js` 将所有 `confirm: true` 修改为 `confirm: false` |
-
-
 ## gitbook 插件配置
 
 在执行 gitbook init 主目录下增加 book.json 文件做定制化配置
