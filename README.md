@@ -2,7 +2,7 @@
 
 Unit-studio's technical manual repo.
 
-Checkout [中文版本](README-ZH.md)
+Checkout [中文版本](Introductions/README-ZH.md)
 
 ## Table of Contents
 
