@@ -2,7 +2,7 @@
 
 此文档提供技术手册与故事记录.
 
-查看 [English Version](README.md)
+查看 [English Version](../README.md)
 
 ## 目录
 
