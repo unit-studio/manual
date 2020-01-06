@@ -9,7 +9,7 @@
 https://fokh13t4.mirror.aliyuncs.com
 ```
 
-## 步骤说明(主要针对Win10)
+## 步骤说明(主要针对 Win10)
 
 ### 1. 安装／升级 Docker 客户端
 
@@ -64,7 +64,6 @@ Docker for Windows 有两种运行模式，一种运行 Windows 相关容器，�
 [Docker 命令参考文档](https://docs.docker.com/engine/reference/commandline/cli/?spm=5176.8351553.0.0.3ce91991ksmtAm)
 
 [Dockerfile 镜像构建参考文档](https://docs.docker.com/engine/reference/builder/?spm=5176.8351553.0.0.3ce91991ksmtAm)
-
 
 ## 操作过程
 
@@ -161,6 +160,10 @@ Insecure Registries:
 Live Restore Enabled: false
 ```
 
+这里已经不需要设置了,刚在在创建虚拟机的时候,已经将 docker 源配置进去了.
+
+## 一下没有用喽
+
 设置配置文件:
 
 ```sh
@@ -179,4 +182,4 @@ Live Restore Enabled: false
 }
 ```
 
-重启Docker.
+重启 Docker.
