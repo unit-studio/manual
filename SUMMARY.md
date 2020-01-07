@@ -8,6 +8,8 @@
     * [CSS](FrontEndManual/CSS/README.md)
     * [JS](FrontEndManual/JS/README.md)
     * [Vue](FrontEndManual/vue/README.md)
+        * [Vue 使用vue-cli v2搭建项目(废弃)](FrontEndManual/vue/buildWithVueCliV2.md)
+        * [Vue 使用vue/cli 搭建项目](FrontEndManual/vue/buildWithVueCliV3.md)
         * [Vue 目录结构](FrontEndManual/vue/VueContent.md)
         * [Vue 项目启动过程分析](FrontEndManual/vue/VueStartupProcess.md)
         * [Vue 项目执行流程分析](FrontEndManual/vue/VueBuildupProcess.md)

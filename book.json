@@ -51,6 +51,9 @@
     "tbfed-pagefooter"
   ],
   "pluginsConfig": {
+    "theme-default": {
+
+    },
     "fontsettings": {
       "theme": "white",
       "family": "serif",
