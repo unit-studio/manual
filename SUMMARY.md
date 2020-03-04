@@ -57,6 +57,11 @@
         * [省市区县](DataBaseRecords/BasicData/Area.md)
         * [民族列表](DataBaseRecords/BasicData/MinZu.md)
         * [全国高等学校名单](DataBaseRecords/BasicData/UniversityOfChina.md)
+    * [系统的设置](DataBaseRecords/sysconfig/README.md)
+        * [操作](DataBaseRecords/sysconfig/menuConfig.md)
+        * [菜单/路由](DataBaseRecords/sysconfig/menuConfig.md)
+        * [角色/权限](DataBaseRecords/sysconfig/menuConfig.md)
+        * [用户](DataBaseRecords/sysconfig/menuConfig.md)
 
 -----
 ##  Server
@@ -122,4 +127,3 @@
 
 * 其他版本介绍
     * [中文版本](Introductions/README-ZH.md)
-
