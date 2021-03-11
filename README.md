@@ -1,6 +1,6 @@
 # unit-studio
 
-Unit-studio's technical manual repo.
+My technical manual repo.
 
 Checkout [中文版本](Introductions/README-ZH.md)
 
@@ -52,8 +52,8 @@ $ gitbook build
 
 ## Maintainers
 
-[@unit-studio](https://github.com/unit-studio)
+[@liyf7218](https://github.com/liyf7218)
 
 ## License
 
-[MIT](LICENSE) © unit-studio
+[MIT](LICENSE) © liyf7218
