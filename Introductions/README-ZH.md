@@ -1,4 +1,4 @@
-# unit-studio
+# tech-manual
 
 此文档提供技术手册与故事记录.
 
@@ -50,8 +50,8 @@ $ gitbook build
 
 ## 维护人员
 
-[@unit-studio](https://github.com/unit-studio)
+[@liyf7218](https://github.com/liyf7218)
 
 ## 许可证
 
-[MIT](LICENSE) © [unit-studio](https://github.com/unit-studio)
+[MIT](LICENSE) © [liyf7218](https://github.com/liyf7218)
